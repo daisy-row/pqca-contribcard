@@ -1,0 +1,1 @@
+{"id":67049,"login":"vbatts","contributions":{"total":1,"by_kind":{"commit":1,"issue":0,"pull_request":0}},"repositories":["open-quantum-safe/boringssl"],"years":[2017],"first_contribution":{"kind":"commit","owner":"open-quantum-safe","repository":"boringssl","sha":"60931e2d8afff685f5460cf9a88469b96942849b","number":null,"title":"Explicit fallthrough on switch","ts":1505937505}}

@@ -1,0 +1,1 @@
+{"id":147778033,"login":"smcmahonibm","contributions":{"total":1,"by_kind":{"commit":0,"issue":1,"pull_request":0}},"repositories":["open-quantum-safe/liboqs"],"years":[2024],"first_contribution":{"kind":"issue","owner":"open-quantum-safe","repository":"liboqs","sha":null,"number":1749,"title":"Windows build with \"-DBUILD_SHARED_LIBS=ON\"","ts":1712300976}}

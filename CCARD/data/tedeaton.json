@@ -1,0 +1,1 @@
+{"id":7863838,"login":"tedeaton","contributions":{"total":12,"by_kind":{"commit":4,"issue":2,"pull_request":6}},"repositories":["open-quantum-safe/liboqs"],"years":[2023,2022,2021,2018],"first_contribution":{"kind":"issue","owner":"open-quantum-safe","repository":"liboqs","sha":null,"number":227,"title":"Extra memory allocated to Picnic private keys","ts":1518366039}}

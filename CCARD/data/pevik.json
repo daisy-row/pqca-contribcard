@@ -1,0 +1,1 @@
+{"id":671766,"login":"pevik","contributions":{"total":1,"by_kind":{"commit":1,"issue":0,"pull_request":0}},"repositories":["open-quantum-safe/openssl"],"years":[2019],"first_contribution":{"kind":"commit","owner":"open-quantum-safe","repository":"openssl","sha":"db6c6c3df296558d00fd21ae1a29a7523d884b55","number":null,"title":"Reuse already defined macros","ts":1548891605}}

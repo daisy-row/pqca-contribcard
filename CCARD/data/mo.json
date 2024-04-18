@@ -1,0 +1,1 @@
+{"id":7117,"login":"mo","contributions":{"total":5,"by_kind":{"commit":5,"issue":0,"pull_request":0}},"repositories":["open-quantum-safe/openssl"],"years":[2014],"first_contribution":{"kind":"commit","owner":"open-quantum-safe","repository":"openssl","sha":"1afd7fa97c5445b18ce8afe6f81b932b2c217a5f","number":null,"title":"RT2513: Fix typo's paramter-->parameter","ts":1408460973}}

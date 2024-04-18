@@ -1,0 +1,1 @@
+{"id":207112,"login":"gmile","contributions":{"total":1,"by_kind":{"commit":1,"issue":0,"pull_request":0}},"repositories":["open-quantum-safe/openssl"],"years":[2018],"first_contribution":{"kind":"commit","owner":"open-quantum-safe","repository":"openssl","sha":"e45b4dd292d8cd2a9f71c88784b72d831b3b6212","number":null,"title":"Add OIDs for DSTU-4145","ts":1520873846}}

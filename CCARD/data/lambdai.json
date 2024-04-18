@@ -1,0 +1,1 @@
+{"id":209726,"login":"lambdai","contributions":{"total":1,"by_kind":{"commit":1,"issue":0,"pull_request":0}},"repositories":["open-quantum-safe/boringssl"],"years":[2021],"first_contribution":{"kind":"commit","owner":"open-quantum-safe","repository":"boringssl","sha":"595cdc29d6b9a84f61f49fbdea1c23d802f80967","number":null,"title":"doc: fix SSL_set0_rbio","ts":1610742450}}

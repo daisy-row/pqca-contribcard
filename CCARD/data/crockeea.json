@@ -1,0 +1,1 @@
+{"id":4899463,"login":"crockeea","contributions":{"total":3,"by_kind":{"commit":0,"issue":2,"pull_request":1}},"repositories":["open-quantum-safe/openssh","open-quantum-safe/liboqs"],"years":[2018],"first_contribution":{"kind":"issue","owner":"open-quantum-safe","repository":"liboqs","sha":null,"number":264,"title":"Multithreaded build on ds-nist-branch","ts":1522788297}}

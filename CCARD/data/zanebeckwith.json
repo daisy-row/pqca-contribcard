@@ -1,0 +1,1 @@
+{"id":4698352,"login":"zanebeckwith","contributions":{"total":3,"by_kind":{"commit":1,"issue":1,"pull_request":1}},"repositories":["open-quantum-safe/liboqs"],"years":[2022],"first_contribution":{"kind":"issue","owner":"open-quantum-safe","repository":"liboqs","sha":null,"number":1217,"title":"Build fails on iOS due to missing `sys/random.h`","ts":1654180466}}

@@ -1,0 +1,1 @@
+{"id":1498,"login":"arnar","contributions":{"total":1,"by_kind":{"commit":1,"issue":0,"pull_request":0}},"repositories":["open-quantum-safe/boringssl"],"years":[2016],"first_contribution":{"kind":"commit","owner":"open-quantum-safe","repository":"boringssl","sha":"f27459e41259bd66179febbd3b89cc183791172c","number":null,"title":"Add SPAKE2 over Ed25519.","ts":1456860850}}

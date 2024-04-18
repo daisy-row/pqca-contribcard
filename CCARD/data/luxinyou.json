@@ -1,0 +1,1 @@
+{"id":68326206,"login":"luxinyou","contributions":{"total":1,"by_kind":{"commit":1,"issue":0,"pull_request":0}},"repositories":["open-quantum-safe/openssl"],"years":[2020],"first_contribution":{"kind":"commit","owner":"open-quantum-safe","repository":"openssl","sha":"526cf60408e1a356ec712b6c88a88864fdbe73af","number":null,"title":"Fix memory leaks in conf_def.c","ts":1599466381}}

@@ -1,0 +1,1 @@
+{"id":590254,"login":"mattst88","contributions":{"total":1,"by_kind":{"commit":1,"issue":0,"pull_request":0}},"repositories":["open-quantum-safe/openssl"],"years":[2020],"first_contribution":{"kind":"commit","owner":"open-quantum-safe","repository":"openssl","sha":"8d87aecfb2d15652fc4c2bb458b2379421305fca","number":null,"title":"config: Drop linux-alpha-gcc+bwx","ts":1582729393}}

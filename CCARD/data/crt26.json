@@ -1,0 +1,1 @@
+{"id":63823484,"login":"crt26","contributions":{"total":2,"by_kind":{"commit":1,"issue":0,"pull_request":1}},"repositories":["open-quantum-safe/openssl"],"years":[2023],"first_contribution":{"kind":"pull_request","owner":"open-quantum-safe","repository":"openssl","sha":null,"number":456,"title":"Updated generate.yml to support liboqs 0.8.0 algorithm changes","ts":1686792795}}

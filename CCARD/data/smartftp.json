@@ -1,0 +1,1 @@
+{"id":764810,"login":"smartftp","contributions":{"total":1,"by_kind":{"commit":1,"issue":0,"pull_request":0}},"repositories":["open-quantum-safe/openssl"],"years":[2016],"first_contribution":{"kind":"commit","owner":"open-quantum-safe","repository":"openssl","sha":"917c343ef8495ccb32cfc2fe7e42c57914e40061","number":null,"title":"Fix missing casts for c++","ts":1452656696}}

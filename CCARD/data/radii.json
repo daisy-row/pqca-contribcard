@@ -1,0 +1,1 @@
+{"id":119524,"login":"radii","contributions":{"total":1,"by_kind":{"commit":1,"issue":0,"pull_request":0}},"repositories":["open-quantum-safe/openssl"],"years":[2016],"first_contribution":{"kind":"commit","owner":"open-quantum-safe","repository":"openssl","sha":"44fdf1c23dbc943b747f4ee5609ef98414621e4a","number":null,"title":"Fix quoting error in SRP printf","ts":1453493181}}

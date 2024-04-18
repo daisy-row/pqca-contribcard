@@ -1,0 +1,1 @@
+{"id":36148363,"login":"jp0707","contributions":{"total":4,"by_kind":{"commit":2,"issue":0,"pull_request":2}},"repositories":["openwallet-foundation/bifold-wallet"],"years":[2023],"first_contribution":{"kind":"pull_request","owner":"openwallet-foundation","repository":"bifold-wallet","sha":null,"number":942,"title":"fix: empty scan screen when clicking Not Now.","ts":1692797064}}

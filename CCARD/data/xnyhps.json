@@ -1,0 +1,1 @@
+{"id":85089,"login":"xnyhps","contributions":{"total":1,"by_kind":{"commit":1,"issue":0,"pull_request":0}},"repositories":["open-quantum-safe/openssl"],"years":[2014],"first_contribution":{"kind":"commit","owner":"open-quantum-safe","repository":"openssl","sha":"7cb472bd0d0fd9da3d42bed1acc56c3a79fc5328","number":null,"title":"Make disabling last cipher work.","ts":1404268339}}

@@ -1,0 +1,1 @@
+{"id":4713329,"login":"mysterymath","contributions":{"total":3,"by_kind":{"commit":3,"issue":0,"pull_request":0}},"repositories":["open-quantum-safe/boringssl"],"years":[2022],"first_contribution":{"kind":"commit","owner":"open-quantum-safe","repository":"boringssl","sha":"2fc6d38391cb76839c76b2a462619e7d69fd998d","number":null,"title":"Add CMake install rules.","ts":1649962941}}

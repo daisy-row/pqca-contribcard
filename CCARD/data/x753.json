@@ -1,0 +1,1 @@
+{"id":29670227,"login":"x753","contributions":{"total":1,"by_kind":{"commit":1,"issue":0,"pull_request":0}},"repositories":["open-quantum-safe/openssl"],"years":[2019],"first_contribution":{"kind":"commit","owner":"open-quantum-safe","repository":"openssl","sha":"e686a2774e9b4846070503cb6ed2ec0f707627a7","number":null,"title":"Fixed typo in enc.c warning","ts":1554072393}}

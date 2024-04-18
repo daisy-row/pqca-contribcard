@@ -1,0 +1,1 @@
+{"id":2796089,"login":"letrhee","contributions":{"total":1,"by_kind":{"commit":1,"issue":0,"pull_request":0}},"repositories":["open-quantum-safe/openssl"],"years":[2017],"first_contribution":{"kind":"commit","owner":"open-quantum-safe","repository":"openssl","sha":"dc99b885ded3cbc586d5ffec779f0e75a269bda3","number":null,"title":"Add ARIA 32-bit implementation","ts":1492721740}}

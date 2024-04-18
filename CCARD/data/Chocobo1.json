@@ -1,0 +1,1 @@
+{"id":9395168,"login":"Chocobo1","contributions":{"total":1,"by_kind":{"commit":1,"issue":0,"pull_request":0}},"repositories":["open-quantum-safe/openssl"],"years":[2018],"first_contribution":{"kind":"commit","owner":"open-quantum-safe","repository":"openssl","sha":"189b56b206e9d588560b609a3738fabceb76bcc3","number":null,"title":"Fix MSVC warning C4819","ts":1540871547}}

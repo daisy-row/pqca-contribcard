@@ -1,0 +1,1 @@
+{"id":4943593,"login":"bdhess","contributions":{"total":2,"by_kind":{"commit":2,"issue":0,"pull_request":0}},"repositories":["open-quantum-safe/boringssl"],"years":[2021],"first_contribution":{"kind":"commit","owner":"open-quantum-safe","repository":"boringssl","sha":"c953ee4af7ad385a82709d33ed3116f5900343d4","number":null,"title":"Add RNG support for FreeBSD.","ts":1616002682}}

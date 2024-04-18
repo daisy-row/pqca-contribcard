@@ -1,0 +1,1 @@
+{"id":3159881,"login":"hesiod","contributions":{"total":1,"by_kind":{"commit":1,"issue":0,"pull_request":0}},"repositories":["open-quantum-safe/openssl"],"years":[2016],"first_contribution":{"kind":"commit","owner":"open-quantum-safe","repository":"openssl","sha":"872759053b3990dac362c1fa561fc127e1de5924","number":null,"title":"Make OPENSSL_die as noreturn","ts":1463593021}}

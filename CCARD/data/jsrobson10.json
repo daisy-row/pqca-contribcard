@@ -1,0 +1,1 @@
+{"id":45777442,"login":"jsrobson10","contributions":{"total":1,"by_kind":{"commit":0,"issue":0,"pull_request":1}},"repositories":["open-quantum-safe/liboqs"],"years":[2021],"first_contribution":{"kind":"pull_request","owner":"open-quantum-safe","repository":"liboqs","sha":null,"number":1075,"title":"Added seeds for Falcon 1024 and 512","ts":1629275466}}

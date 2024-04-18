@@ -1,0 +1,1 @@
+{"id":4914320,"login":"gy2256","contributions":{"total":1,"by_kind":{"commit":0,"issue":1,"pull_request":0}},"repositories":["open-quantum-safe/liboqs"],"years":[2023],"first_contribution":{"kind":"issue","owner":"open-quantum-safe","repository":"liboqs","sha":null,"number":1436,"title":"Valgrind not available on M1 Mac","ts":1681659914}}

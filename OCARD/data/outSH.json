@@ -1,0 +1,1 @@
+{"id":9387513,"login":"outSH","contributions":{"total":1,"by_kind":{"commit":0,"issue":1,"pull_request":0}},"repositories":["openwallet-foundation/credo-ts"],"years":[2023],"first_contribution":{"kind":"issue","owner":"openwallet-foundation","repository":"credo-ts","sha":null,"number":1617,"title":"Yarn install fails on node@18.18.2","ts":1698684532}}

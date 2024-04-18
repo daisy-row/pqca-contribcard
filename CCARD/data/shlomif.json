@@ -1,0 +1,1 @@
+{"id":3150,"login":"shlomif","contributions":{"total":1,"by_kind":{"commit":1,"issue":0,"pull_request":0}},"repositories":["open-quantum-safe/openssl"],"years":[2016],"first_contribution":{"kind":"commit","owner":"open-quantum-safe","repository":"openssl","sha":"085b3860651e2ff55e28f8a28a1f66b1a3fe538f","number":null,"title":"Fix the spelling of \"implement\".","ts":1460636127}}

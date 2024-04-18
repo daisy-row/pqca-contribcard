@@ -1,0 +1,1 @@
+{"id":6852543,"login":"ReverseControl","contributions":{"total":3,"by_kind":{"commit":0,"issue":3,"pull_request":0}},"repositories":["open-quantum-safe/openssl"],"years":[2020],"first_contribution":{"kind":"issue","owner":"open-quantum-safe","repository":"openssl","sha":null,"number":150,"title":"OQS-OpenSSL_1_1_1-stable TEST70 test_clienthello FAIL.","ts":1582509647}}

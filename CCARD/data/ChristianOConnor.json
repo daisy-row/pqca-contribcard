@@ -1,0 +1,1 @@
+{"id":47836708,"login":"ChristianOConnor","contributions":{"total":2,"by_kind":{"commit":0,"issue":2,"pull_request":0}},"repositories":["open-quantum-safe/liboqs"],"years":[2020],"first_contribution":{"kind":"issue","owner":"open-quantum-safe","repository":"liboqs","sha":null,"number":714,"title":"Compiling .so file on linux (WSL)","ts":1586822259}}

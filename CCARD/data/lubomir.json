@@ -1,0 +1,1 @@
+{"id":89674,"login":"lubomir","contributions":{"total":1,"by_kind":{"commit":1,"issue":0,"pull_request":0}},"repositories":["open-quantum-safe/openssl"],"years":[2015],"first_contribution":{"kind":"commit","owner":"open-quantum-safe","repository":"openssl","sha":"4dc1aa0436fdb8af50960db676b739c8ef81f38c","number":null,"title":"Lost alert in DTLS","ts":1432284114}}

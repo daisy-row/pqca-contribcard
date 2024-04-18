@@ -1,0 +1,1 @@
+{"id":1580956,"login":"chenrui333","contributions":{"total":2,"by_kind":{"commit":0,"issue":2,"pull_request":0}},"repositories":["open-quantum-safe/liboqs"],"years":[2023,2021],"first_contribution":{"kind":"issue","owner":"open-quantum-safe","repository":"liboqs","sha":null,"number":1018,"title":"liboqs 0.6.0 does not build on Apple M1","ts":1623546457}}

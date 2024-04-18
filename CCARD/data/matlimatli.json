@@ -1,0 +1,1 @@
+{"id":7438400,"login":"matlimatli","contributions":{"total":3,"by_kind":{"commit":1,"issue":1,"pull_request":1}},"repositories":["open-quantum-safe/liboqs"],"years":[2024],"first_contribution":{"kind":"issue","owner":"open-quantum-safe","repository":"liboqs","sha":null,"number":1750,"title":"Return value from OQS_randombytes","ts":1712322429}}

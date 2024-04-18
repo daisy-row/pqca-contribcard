@@ -1,0 +1,1 @@
+{"id":22633385,"login":"eltociear","contributions":{"total":1,"by_kind":{"commit":1,"issue":0,"pull_request":0}},"repositories":["open-quantum-safe/openssl"],"years":[2020],"first_contribution":{"kind":"commit","owner":"open-quantum-safe","repository":"openssl","sha":"11358e0e3c583fe2ce34d9ab719e49127fc2bd46","number":null,"title":"Fixed typo in ssl_lib.c","ts":1602547680}}

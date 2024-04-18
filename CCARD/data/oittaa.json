@@ -1,0 +1,1 @@
+{"id":8972248,"login":"oittaa","contributions":{"total":2,"by_kind":{"commit":1,"issue":0,"pull_request":1}},"repositories":["open-quantum-safe/liboqs"],"years":[2018],"first_contribution":{"kind":"pull_request","owner":"open-quantum-safe","repository":"liboqs","sha":null,"number":407,"title":"Use getentropy() if available","ts":1538773270}}

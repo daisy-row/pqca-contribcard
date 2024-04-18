@@ -1,0 +1,1 @@
+{"id":1887485,"login":"persandstrom","contributions":{"total":1,"by_kind":{"commit":1,"issue":0,"pull_request":0}},"repositories":["open-quantum-safe/openssl"],"years":[2018],"first_contribution":{"kind":"commit","owner":"open-quantum-safe","repository":"openssl","sha":"6f4b929af0b7dfb6a4d420fc9a8e25016f616c10","number":null,"title":"Update EC_POINT_new.pod","ts":1519317720}}

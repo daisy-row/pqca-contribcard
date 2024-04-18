@@ -1,0 +1,1 @@
+{"id":1214959,"login":"alexzas","contributions":{"total":4,"by_kind":{"commit":2,"issue":0,"pull_request":2}},"repositories":["open-quantum-safe/oqs-provider"],"years":[2023],"first_contribution":{"kind":"pull_request","owner":"open-quantum-safe","repository":"oqs-provider","sha":null,"number":143,"title":"Removed dependency on internal ssltestlib","ts":1681159457}}

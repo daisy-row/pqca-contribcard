@@ -1,0 +1,1 @@
+{"id":11140201,"login":"croissanne","contributions":{"total":3,"by_kind":{"commit":3,"issue":0,"pull_request":0}},"repositories":["open-quantum-safe/libssh"],"years":[2018],"first_contribution":{"kind":"commit","owner":"open-quantum-safe","repository":"libssh","sha":"ced05eb6dbbd9a20f0b96a454203a8d158157123","number":null,"title":"socket: Undouble socket fds","ts":1540486169}}

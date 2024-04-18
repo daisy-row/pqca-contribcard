@@ -1,0 +1,1 @@
+{"id":1131704,"login":"illicitonion","contributions":{"total":4,"by_kind":{"commit":4,"issue":0,"pull_request":0}},"repositories":["open-quantum-safe/boringssl"],"years":[2017],"first_contribution":{"kind":"commit","owner":"open-quantum-safe","repository":"boringssl","sha":"1de690b9929ba54ac9580a37e1d9a48803f57178","number":null,"title":"Ignore unused value","ts":1507216848}}

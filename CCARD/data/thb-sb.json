@@ -1,0 +1,1 @@
+{"id":108470890,"login":"thb-sb","contributions":{"total":52,"by_kind":{"commit":22,"issue":2,"pull_request":28}},"repositories":["open-quantum-safe/oqs-provider","open-quantum-safe/liboqs"],"years":[2024,2023,2022],"first_contribution":{"kind":"pull_request","owner":"open-quantum-safe","repository":"liboqs","sha":null,"number":1265,"title":"Modernize the CMake","ts":1658933612}}

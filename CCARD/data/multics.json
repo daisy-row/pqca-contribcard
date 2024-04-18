@@ -1,0 +1,1 @@
+{"id":1222707,"login":"multics","contributions":{"total":1,"by_kind":{"commit":1,"issue":0,"pull_request":0}},"repositories":["open-quantum-safe/openssl"],"years":[2017],"first_contribution":{"kind":"commit","owner":"open-quantum-safe","repository":"openssl","sha":"f70c22eb23763c6dce050293cc1b9a0a234d72b2","number":null,"title":"Update rsautl.pod for typo","ts":1505136763}}

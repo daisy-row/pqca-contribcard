@@ -1,0 +1,1 @@
+{"id":2403804,"login":"nakarotori","contributions":{"total":2,"by_kind":{"commit":2,"issue":0,"pull_request":0}},"repositories":["open-quantum-safe/libssh"],"years":[2015],"first_contribution":{"kind":"commit","owner":"open-quantum-safe","repository":"libssh","sha":"378fcccc0ac914254151f69cebb47e9b2c06bd31","number":null,"title":"headers: fix missing mode_t","ts":1447176451}}

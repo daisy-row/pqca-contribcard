@@ -1,0 +1,1 @@
+{"id":1033740,"login":"rhenium","contributions":{"total":14,"by_kind":{"commit":14,"issue":0,"pull_request":0}},"repositories":["open-quantum-safe/openssl"],"years":[2017,2016],"first_contribution":{"kind":"commit","owner":"open-quantum-safe","repository":"openssl","sha":"9d5ac9532c58c8b2d10d5e8ee8029dcb40aecfbe","number":null,"title":"Add SSL_CTX_get_ciphers()","ts":1460383144}}

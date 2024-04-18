@@ -1,0 +1,1 @@
+{"id":271906,"login":"yurivict","contributions":{"total":6,"by_kind":{"commit":0,"issue":6,"pull_request":0}},"repositories":["open-quantum-safe/liboqs","open-quantum-safe/liboqs-cpp"],"years":[2023,2022,2021],"first_contribution":{"kind":"issue","owner":"open-quantum-safe","repository":"liboqs","sha":null,"number":1090,"title":"Many tests fail on FreeBSD","ts":1631770547}}

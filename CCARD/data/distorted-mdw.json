@@ -1,0 +1,1 @@
+{"id":10420519,"login":"distorted-mdw","contributions":{"total":9,"by_kind":{"commit":2,"issue":2,"pull_request":5}},"repositories":["open-quantum-safe/oqs-provider","open-quantum-safe/liboqs"],"years":[2023],"first_contribution":{"kind":"issue","owner":"open-quantum-safe","repository":"oqs-provider","sha":null,"number":148,"title":"Key import is nonfunctional","ts":1682716245}}

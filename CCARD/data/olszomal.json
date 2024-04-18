@@ -1,0 +1,1 @@
+{"id":27289366,"login":"olszomal","contributions":{"total":2,"by_kind":{"commit":2,"issue":0,"pull_request":0}},"repositories":["open-quantum-safe/openssl"],"years":[2020],"first_contribution":{"kind":"commit","owner":"open-quantum-safe","repository":"openssl","sha":"4151e303a488c53613f7b8c6eae4372759d7fa35","number":null,"title":"CMS_get0_signers() description","ts":1592317007}}

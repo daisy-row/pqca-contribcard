@@ -1,0 +1,1 @@
+{"id":8371556,"login":"korli","contributions":{"total":2,"by_kind":{"commit":2,"issue":0,"pull_request":0}},"repositories":["open-quantum-safe/openssl"],"years":[2016],"first_contribution":{"kind":"commit","owner":"open-quantum-safe","repository":"openssl","sha":"6e08e9e7ccf00aba847351adc3b46b9dae1f114d","number":null,"title":"Add Haiku support.","ts":1460656182}}

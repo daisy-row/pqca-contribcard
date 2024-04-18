@@ -1,0 +1,1 @@
+{"id":32562011,"login":"zxjtan","contributions":{"total":11,"by_kind":{"commit":5,"issue":1,"pull_request":5}},"repositories":["open-quantum-safe/liboqs"],"years":[2024,2023],"first_contribution":{"kind":"issue","owner":"open-quantum-safe","repository":"liboqs","sha":null,"number":1548,"title":"Keccak_(X4_)Dispatch Initialize_ptr assignment is thread unsafe","ts":1694455202}}

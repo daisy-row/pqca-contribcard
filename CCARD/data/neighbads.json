@@ -1,0 +1,1 @@
+{"id":16126598,"login":"neighbads","contributions":{"total":1,"by_kind":{"commit":1,"issue":0,"pull_request":0}},"repositories":["open-quantum-safe/openssl"],"years":[2018],"first_contribution":{"kind":"commit","owner":"open-quantum-safe","repository":"openssl","sha":"675fa85413a130607ec780ce9edaa6dd7ee1500f","number":null,"title":"Update sm2_crypt.c","ts":1532428083}}

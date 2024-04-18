@@ -1,0 +1,1 @@
+{"id":125719,"login":"eay","contributions":{"total":1,"by_kind":{"commit":1,"issue":0,"pull_request":0}},"repositories":["open-quantum-safe/openssl"],"years":[2014],"first_contribution":{"kind":"commit","owner":"open-quantum-safe","repository":"openssl","sha":"10378fb5f4c67270b800e8f7c600cd0548874811","number":null,"title":"Fix base64 decoding bug.","ts":1396464867}}

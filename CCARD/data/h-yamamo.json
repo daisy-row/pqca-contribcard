@@ -1,0 +1,1 @@
+{"id":7686032,"login":"h-yamamo","contributions":{"total":1,"by_kind":{"commit":1,"issue":0,"pull_request":0}},"repositories":["open-quantum-safe/openssl"],"years":[2015],"first_contribution":{"kind":"commit","owner":"open-quantum-safe","repository":"openssl","sha":"246b52f39aac36d1f4bc705c27c6354cb67041f4","number":null,"title":"Fix DTLS1.2 buffers","ts":1441150454}}

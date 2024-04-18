@@ -1,0 +1,1 @@
+{"id":46431,"login":"keigo","contributions":{"total":1,"by_kind":{"commit":1,"issue":0,"pull_request":0}},"repositories":["open-quantum-safe/openssl"],"years":[2017],"first_contribution":{"kind":"commit","owner":"open-quantum-safe","repository":"openssl","sha":"a2d9cfbac5d87b03496d62079aef01c601193b58","number":null,"title":"Added mysql as starttls protocol.","ts":1496349170}}

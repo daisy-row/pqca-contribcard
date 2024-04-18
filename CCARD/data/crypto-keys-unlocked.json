@@ -1,0 +1,1 @@
+{"id":122903825,"login":"crypto-keys-unlocked","contributions":{"total":1,"by_kind":{"commit":0,"issue":1,"pull_request":0}},"repositories":["open-quantum-safe/openssl"],"years":[2023],"first_contribution":{"kind":"issue","owner":"open-quantum-safe","repository":"openssl","sha":null,"number":457,"title":"openssl ciphers not displaying the OQS supported ciphers.","ts":1686890665}}

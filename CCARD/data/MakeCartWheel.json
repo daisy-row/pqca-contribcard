@@ -1,0 +1,1 @@
+{"id":147936270,"login":"MakeCartWheel","contributions":{"total":1,"by_kind":{"commit":0,"issue":1,"pull_request":0}},"repositories":["open-quantum-safe/liboqs"],"years":[2023],"first_contribution":{"kind":"issue","owner":"open-quantum-safe","repository":"liboqs","sha":null,"number":1581,"title":"Failed to compile tests with manually installed Openssl 3.x.x","ts":1697301616}}

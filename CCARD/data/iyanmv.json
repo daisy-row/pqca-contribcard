@@ -1,0 +1,1 @@
+{"id":15230534,"login":"iyanmv","contributions":{"total":6,"by_kind":{"commit":1,"issue":4,"pull_request":1}},"repositories":["open-quantum-safe/liboqs","open-quantum-safe/oqs-provider"],"years":[2023],"first_contribution":{"kind":"issue","owner":"open-quantum-safe","repository":"liboqs","sha":null,"number":1338,"title":"Segfault when running example_sig.c","ts":1672750446}}

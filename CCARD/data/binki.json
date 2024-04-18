@@ -1,0 +1,1 @@
+{"id":82626,"login":"binki","contributions":{"total":1,"by_kind":{"commit":1,"issue":0,"pull_request":0}},"repositories":["open-quantum-safe/openssl"],"years":[2015],"first_contribution":{"kind":"commit","owner":"open-quantum-safe","repository":"openssl","sha":"cfb4f1efbae561e7b70bf97fc8973b2aa084cb14","number":null,"title":"RT2667: Add IRC support to -starttls","ts":1447453038}}

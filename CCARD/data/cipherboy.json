@@ -1,0 +1,1 @@
+{"id":914030,"login":"cipherboy","contributions":{"total":2,"by_kind":{"commit":1,"issue":0,"pull_request":1}},"repositories":["open-quantum-safe/liboqs-go"],"years":[2024],"first_contribution":{"kind":"pull_request","owner":"open-quantum-safe","repository":"liboqs-go","sha":null,"number":36,"title":"Fix build with Go v1.22.1, liboqs v0.10.0","ts":1711330247}}

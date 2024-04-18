@@ -1,0 +1,1 @@
+{"id":65081,"login":"jjl","contributions":{"total":1,"by_kind":{"commit":0,"issue":1,"pull_request":0}},"repositories":["open-quantum-safe/liboqs"],"years":[2017],"first_contribution":{"kind":"issue","owner":"open-quantum-safe","repository":"liboqs","sha":null,"number":90,"title":"OQS_kex_alice_priv_free should not require a OQS_KEX pointer","ts":1484943339}}

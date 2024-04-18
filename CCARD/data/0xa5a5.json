@@ -1,0 +1,1 @@
+{"id":38788524,"login":"0xa5a5","contributions":{"total":1,"by_kind":{"commit":0,"issue":1,"pull_request":0}},"repositories":["open-quantum-safe/liboqs"],"years":[2019],"first_contribution":{"kind":"issue","owner":"open-quantum-safe","repository":"liboqs","sha":null,"number":566,"title":"memory leaks in OpenSSL based SPHINCS+-SHA256 versions","ts":1571909950}}

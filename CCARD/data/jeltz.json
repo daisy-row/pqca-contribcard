@@ -1,0 +1,1 @@
+{"id":78469,"login":"jeltz","contributions":{"total":1,"by_kind":{"commit":1,"issue":0,"pull_request":0}},"repositories":["open-quantum-safe/openssl"],"years":[2016],"first_contribution":{"kind":"commit","owner":"open-quantum-safe","repository":"openssl","sha":"9d6daf99c286d260e50278f63ddb7d164462256e","number":null,"title":"Fix broken loading of client CAs","ts":1467487813}}

@@ -1,0 +1,1 @@
+{"id":1231340,"login":"pfsmorigo","contributions":{"total":1,"by_kind":{"commit":1,"issue":0,"pull_request":0}},"repositories":["open-quantum-safe/openssl"],"years":[2018],"first_contribution":{"kind":"commit","owner":"open-quantum-safe","repository":"openssl","sha":"bdd58bd249f1b6d4c7ccdd9c54fd33db874e0084","number":null,"title":"demos/evp: add make clean","ts":1536012442}}

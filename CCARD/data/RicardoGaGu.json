@@ -1,0 +1,1 @@
+{"id":25283073,"login":"RicardoGaGu","contributions":{"total":2,"by_kind":{"commit":0,"issue":2,"pull_request":0}},"repositories":["open-quantum-safe/openssl"],"years":[2019],"first_contribution":{"kind":"issue","owner":"open-quantum-safe","repository":"openssl","sha":null,"number":103,"title":"Failing to compile NGINX with PQ openssl fork","ts":1564047727}}

@@ -1,0 +1,1 @@
+{"id":2119212,"login":"jsoref","contributions":{"total":5,"by_kind":{"commit":5,"issue":0,"pull_request":0}},"repositories":["open-quantum-safe/openssl"],"years":[2017],"first_contribution":{"kind":"commit","owner":"open-quantum-safe","repository":"openssl","sha":"df578aa01314acd072038b703ac3ec002208da03","number":null,"title":"Fix spelling errors in CMS.","ts":1495887324}}

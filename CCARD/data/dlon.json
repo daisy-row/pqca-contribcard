@@ -1,0 +1,1 @@
+{"id":2653485,"login":"dlon","contributions":{"total":1,"by_kind":{"commit":0,"issue":1,"pull_request":0}},"repositories":["open-quantum-safe/liboqs-rust"],"years":[2022],"first_contribution":{"kind":"issue","owner":"open-quantum-safe","repository":"liboqs-rust","sha":null,"number":134,"title":"Stack overflow when generating a key pair on Windows","ts":1652786978}}

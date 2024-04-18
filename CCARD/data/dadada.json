@@ -1,0 +1,1 @@
+{"id":7216772,"login":"dadada","contributions":{"total":4,"by_kind":{"commit":2,"issue":1,"pull_request":1}},"repositories":["open-quantum-safe/liboqs-rust"],"years":[2023],"first_contribution":{"kind":"issue","owner":"open-quantum-safe","repository":"liboqs-rust","sha":null,"number":188,"title":"Cmake files are not included in package","ts":1677621670}}

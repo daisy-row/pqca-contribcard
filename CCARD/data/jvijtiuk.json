@@ -1,0 +1,1 @@
+{"id":30860583,"login":"jvijtiuk","contributions":{"total":4,"by_kind":{"commit":4,"issue":0,"pull_request":0}},"repositories":["open-quantum-safe/libssh"],"years":[2018,2017],"first_contribution":{"kind":"commit","owner":"open-quantum-safe","repository":"libssh","sha":"778652460f7cceb3e760964a890ffd99ec8230e7","number":null,"title":"add mbedtls crypto support","ts":1514456259}}

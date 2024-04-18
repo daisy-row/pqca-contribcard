@@ -1,0 +1,1 @@
+{"id":28628357,"login":"donbirno","contributions":{"total":1,"by_kind":{"commit":0,"issue":1,"pull_request":0}},"repositories":["open-quantum-safe/liboqs"],"years":[2019],"first_contribution":{"kind":"issue","owner":"open-quantum-safe","repository":"liboqs","sha":null,"number":574,"title":"speed_kem & speed_sig halts with Illegal instruction.","ts":1574437027}}

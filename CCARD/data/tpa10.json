@@ -1,0 +1,1 @@
+{"id":4023371,"login":"tpa10","contributions":{"total":1,"by_kind":{"commit":0,"issue":1,"pull_request":0}},"repositories":["open-quantum-safe/oqs-provider"],"years":[2023],"first_contribution":{"kind":"issue","owner":"open-quantum-safe","repository":"oqs-provider","sha":null,"number":199,"title":"build failure on Mac Pro with Apple M2 Chip.","ts":1687933392}}

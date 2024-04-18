@@ -1,0 +1,1 @@
+{"id":908093,"login":"covener","contributions":{"total":1,"by_kind":{"commit":1,"issue":0,"pull_request":0}},"repositories":["open-quantum-safe/openssl"],"years":[2018],"first_contribution":{"kind":"commit","owner":"open-quantum-safe","repository":"openssl","sha":"a9dd51a800f1920aa7545dc2f4f831000a60af48","number":null,"title":"aix compat fixes for ocsp.c","ts":1521578153}}

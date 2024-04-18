@@ -1,0 +1,1 @@
+{"id":8270508,"login":"claucece","contributions":{"total":8,"by_kind":{"commit":2,"issue":3,"pull_request":3}},"repositories":["open-quantum-safe/liboqs","open-quantum-safe/boringssl"],"years":[2021,2020],"first_contribution":{"kind":"issue","owner":"open-quantum-safe","repository":"liboqs","sha":null,"number":807,"title":"Undefined behaviour in FireSaber-KEM","ts":1596698152}}

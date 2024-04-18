@@ -1,0 +1,1 @@
+{"id":29616,"login":"tycho","contributions":{"total":1,"by_kind":{"commit":1,"issue":0,"pull_request":0}},"repositories":["open-quantum-safe/openssl"],"years":[2018],"first_contribution":{"kind":"commit","owner":"open-quantum-safe","repository":"openssl","sha":"0244234d5d64b96d251fc86371bccbca6cfc52b5","number":null,"title":"speed: add ecdhx448 to ecdh choices","ts":1520597720}}

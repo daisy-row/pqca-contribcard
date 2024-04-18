@@ -1,0 +1,1 @@
+{"id":63803208,"login":"qikdauie","contributions":{"total":2,"by_kind":{"commit":0,"issue":2,"pull_request":0}},"repositories":["open-quantum-safe/boringssl"],"years":[2023],"first_contribution":{"kind":"issue","owner":"open-quantum-safe","repository":"boringssl","sha":null,"number":101,"title":"Windows/Mac Interop Test Server Handshake Tests Failing","ts":1687828430}}

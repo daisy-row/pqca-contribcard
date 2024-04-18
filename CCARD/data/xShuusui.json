@@ -1,0 +1,1 @@
+{"id":32741828,"login":"xShuusui","contributions":{"total":3,"by_kind":{"commit":1,"issue":1,"pull_request":1}},"repositories":["open-quantum-safe/oqs-provider"],"years":[2022],"first_contribution":{"kind":"issue","owner":"open-quantum-safe","repository":"oqs-provider","sha":null,"number":92,"title":"Memory leaks during key creation and signing","ts":1670451470}}

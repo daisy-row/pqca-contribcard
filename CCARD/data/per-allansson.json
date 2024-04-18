@@ -1,0 +1,1 @@
+{"id":65364157,"login":"per-allansson","contributions":{"total":1,"by_kind":{"commit":1,"issue":0,"pull_request":0}},"repositories":["open-quantum-safe/openssl"],"years":[2015],"first_contribution":{"kind":"commit","owner":"open-quantum-safe","repository":"openssl","sha":"0baaff1a76d4c91b9c1121059be63175454d7b03","number":null,"title":"Fix IP_MTU_DISCOVER typo","ts":1433246251}}

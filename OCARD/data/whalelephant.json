@@ -1,0 +1,1 @@
+{"id":18553484,"login":"whalelephant","contributions":{"total":1,"by_kind":{"commit":0,"issue":1,"pull_request":0}},"repositories":["openwallet-foundation-labs/sd-jwt-rust"],"years":[2024],"first_contribution":{"kind":"issue","owner":"openwallet-foundation-labs","repository":"sd-jwt-rust","sha":null,"number":17,"title":"Support for `SDJWTClaimsStrategy::No` ","ts":1704557535}}

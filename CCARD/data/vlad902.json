@@ -1,0 +1,1 @@
+{"id":1088893,"login":"vlad902","contributions":{"total":1,"by_kind":{"commit":1,"issue":0,"pull_request":0}},"repositories":["open-quantum-safe/boringssl"],"years":[2017],"first_contribution":{"kind":"commit","owner":"open-quantum-safe","repository":"boringssl","sha":"02b1d1953aa8cf44b887309b14496e235146b32f","number":null,"title":"Refactor bio_io()","ts":1502752497}}

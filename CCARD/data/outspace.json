@@ -1,0 +1,1 @@
+{"id":5472761,"login":"outspace","contributions":{"total":1,"by_kind":{"commit":1,"issue":0,"pull_request":0}},"repositories":["open-quantum-safe/openssl"],"years":[2019],"first_contribution":{"kind":"commit","owner":"open-quantum-safe","repository":"openssl","sha":"be4660f8d483d5824b52135251899cee5c231456","number":null,"title":"doc: fix link in BN_new.pod","ts":1566192073}}

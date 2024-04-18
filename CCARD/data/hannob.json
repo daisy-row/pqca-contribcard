@@ -1,0 +1,1 @@
+{"id":990588,"login":"hannob","contributions":{"total":3,"by_kind":{"commit":3,"issue":0,"pull_request":0}},"repositories":["open-quantum-safe/openssl"],"years":[2015],"first_contribution":{"kind":"commit","owner":"open-quantum-safe","repository":"openssl","sha":"539ed89f686866b82a9ec9a4c3b112878d29cd73","number":null,"title":"Fix uninitialized variable.","ts":1430567065}}

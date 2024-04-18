@@ -1,0 +1,1 @@
+{"id":14876069,"login":"splasky","contributions":{"total":2,"by_kind":{"commit":1,"issue":0,"pull_request":1}},"repositories":["open-quantum-safe/liboqs"],"years":[2022],"first_contribution":{"kind":"pull_request","owner":"open-quantum-safe","repository":"liboqs","sha":null,"number":1250,"title":"Deal with the issue identified by valgrind","ts":1657185285}}

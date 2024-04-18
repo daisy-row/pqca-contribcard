@@ -1,0 +1,1 @@
+{"id":1125622,"login":"jrmarino","contributions":{"total":1,"by_kind":{"commit":1,"issue":0,"pull_request":0}},"repositories":["open-quantum-safe/openssl"],"years":[2016],"first_contribution":{"kind":"commit","owner":"open-quantum-safe","repository":"openssl","sha":"2df7f11fad886cf54c98a17e95932d9b5987f488","number":null,"title":"Fix support for DragonFly BSD","ts":1477124717}}

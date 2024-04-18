@@ -1,0 +1,1 @@
+{"id":1817007,"login":"qualitesys","contributions":{"total":1,"by_kind":{"commit":1,"issue":0,"pull_request":0}},"repositories":["open-quantum-safe/openssl"],"years":[2020],"first_contribution":{"kind":"commit","owner":"open-quantum-safe","repository":"openssl","sha":"10e166abd47790155766b774910ededa3add74dc","number":null,"title":"Update tls13_enc.c","ts":1577969530}}

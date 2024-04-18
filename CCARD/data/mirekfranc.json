@@ -1,0 +1,1 @@
+{"id":7672274,"login":"mirekfranc","contributions":{"total":1,"by_kind":{"commit":1,"issue":0,"pull_request":0}},"repositories":["open-quantum-safe/openssl"],"years":[2016],"first_contribution":{"kind":"commit","owner":"open-quantum-safe","repository":"openssl","sha":"563c1ec61848073e3739dd126cf1950e338c820d","number":null,"title":"fix memory leaks","ts":1468686754}}

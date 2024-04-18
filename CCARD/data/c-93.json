@@ -1,0 +1,1 @@
+{"id":15103886,"login":"c-93","contributions":{"total":1,"by_kind":{"commit":0,"issue":1,"pull_request":0}},"repositories":["open-quantum-safe/liboqs"],"years":[2023],"first_contribution":{"kind":"issue","owner":"open-quantum-safe","repository":"liboqs","sha":null,"number":1580,"title":"pytest 7.4: --numprocesses=auto not recognized","ts":1697201165}}

@@ -1,0 +1,1 @@
+{"id":19821862,"login":"rthugh02","contributions":{"total":1,"by_kind":{"commit":1,"issue":0,"pull_request":0}},"repositories":["open-quantum-safe/openssl"],"years":[2020],"first_contribution":{"kind":"commit","owner":"open-quantum-safe","repository":"openssl","sha":"7a989af7386e97add7c759fda688c5d2e79e812e","number":null,"title":"Update EVP_EncodeInit.pod","ts":1595603786}}

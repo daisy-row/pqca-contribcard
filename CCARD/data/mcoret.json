@@ -1,0 +1,1 @@
+{"id":50789469,"login":"mcoret","contributions":{"total":1,"by_kind":{"commit":0,"issue":0,"pull_request":1}},"repositories":["open-quantum-safe/liboqs"],"years":[2022],"first_contribution":{"kind":"pull_request","owner":"open-quantum-safe","repository":"liboqs","sha":null,"number":1224,"title":"Fix SIKE exports in DLL","ts":1654948613}}

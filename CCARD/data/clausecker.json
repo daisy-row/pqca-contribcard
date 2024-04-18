@@ -1,0 +1,1 @@
+{"id":328433,"login":"clausecker","contributions":{"total":2,"by_kind":{"commit":0,"issue":2,"pull_request":0}},"repositories":["open-quantum-safe/liboqs","open-quantum-safe/liboqs-rust"],"years":[2023],"first_contribution":{"kind":"issue","owner":"open-quantum-safe","repository":"liboqs-rust","sha":null,"number":190,"title":"Permit unbundling the library","ts":1677790498}}

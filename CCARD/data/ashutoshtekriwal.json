@@ -1,0 +1,1 @@
+{"id":33280104,"login":"ashutoshtekriwal","contributions":{"total":1,"by_kind":{"commit":0,"issue":1,"pull_request":0}},"repositories":["open-quantum-safe/openssl"],"years":[2017],"first_contribution":{"kind":"issue","owner":"open-quantum-safe","repository":"openssl","sha":null,"number":13,"title":"openssl client/server issue when using OQS cipher suite","ts":1509527855}}

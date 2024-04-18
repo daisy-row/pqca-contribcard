@@ -1,0 +1,1 @@
+{"id":5129205,"login":"mrpre","contributions":{"total":6,"by_kind":{"commit":6,"issue":0,"pull_request":0}},"repositories":["open-quantum-safe/openssl"],"years":[2016,2015],"first_contribution":{"kind":"commit","owner":"open-quantum-safe","repository":"openssl","sha":"a7e974c7be90e2c9673e2ce6215a70f734eb8ad4","number":null,"title":"check bn_new return value","ts":1441051411}}

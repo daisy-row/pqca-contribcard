@@ -1,0 +1,1 @@
+{"id":105423,"login":"james-w","contributions":{"total":1,"by_kind":{"commit":1,"issue":0,"pull_request":0}},"repositories":["open-quantum-safe/openssl"],"years":[2014],"first_contribution":{"kind":"commit","owner":"open-quantum-safe","repository":"openssl","sha":"cf2239b3b397174a8a6b1cc84ff68aba34ed5941","number":null,"title":"RT1941: c_rehash.pod is missing","ts":1409406648}}

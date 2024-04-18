@@ -1,0 +1,1 @@
+{"id":6464813,"login":"mumbleskates","contributions":{"total":1,"by_kind":{"commit":1,"issue":0,"pull_request":0}},"repositories":["open-quantum-safe/boringssl"],"years":[2022],"first_contribution":{"kind":"commit","owner":"open-quantum-safe","repository":"boringssl","sha":"af34f6460f0bf99dc267818f02b2936f60a30de7","number":null,"title":"Remove unused variable","ts":1648676383}}

@@ -1,0 +1,1 @@
+{"id":1151557,"login":"ligurio","contributions":{"total":1,"by_kind":{"commit":1,"issue":0,"pull_request":0}},"repositories":["open-quantum-safe/openssl"],"years":[2016],"first_contribution":{"kind":"commit","owner":"open-quantum-safe","repository":"openssl","sha":"fe2582a224e35585274198ef2d2983f3afa84f1e","number":null,"title":"Fix link to LibFuzzer","ts":1478106630}}

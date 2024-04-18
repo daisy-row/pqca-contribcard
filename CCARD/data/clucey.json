@@ -1,0 +1,1 @@
+{"id":16600034,"login":"clucey","contributions":{"total":3,"by_kind":{"commit":3,"issue":0,"pull_request":0}},"repositories":["open-quantum-safe/openssl"],"years":[2016],"first_contribution":{"kind":"commit","owner":"open-quantum-safe","repository":"openssl","sha":"7f458a48ff3a231d5841466525d2aacbcd4f6b77","number":null,"title":"ALG: Add AFALG engine","ts":1457357777}}

@@ -1,0 +1,1 @@
+{"id":106774416,"login":"ducnguyen-sb","contributions":{"total":17,"by_kind":{"commit":0,"issue":0,"pull_request":17}},"repositories":["open-quantum-safe/liboqs"],"years":[2024,2023],"first_contribution":{"kind":"pull_request","owner":"open-quantum-safe","repository":"liboqs","sha":null,"number":1461,"title":"Add XMSS parameter xmss_sha256_h10","ts":1684178560}}

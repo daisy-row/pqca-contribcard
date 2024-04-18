@@ -1,0 +1,1 @@
+{"id":2091641,"login":"mancha1","contributions":{"total":6,"by_kind":{"commit":6,"issue":0,"pull_request":0}},"repositories":["open-quantum-safe/openssl"],"years":[2015,2014],"first_contribution":{"kind":"commit","owner":"open-quantum-safe","repository":"openssl","sha":"e14f14d36e429762b277bd584329d815760b95d2","number":null,"title":"Fix eckey_priv_encode()","ts":1398495553}}

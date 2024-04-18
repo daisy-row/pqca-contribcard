@@ -1,0 +1,1 @@
+{"id":295338,"login":"ralienpp","contributions":{"total":2,"by_kind":{"commit":1,"issue":0,"pull_request":1}},"repositories":["open-quantum-safe/liboqs-python"],"years":[2024],"first_contribution":{"kind":"pull_request","owner":"open-quantum-safe","repository":"liboqs-python","sha":null,"number":83,"title":"Update virtualenv creation instructions","ts":1712758748}}

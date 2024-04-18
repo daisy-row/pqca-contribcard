@@ -1,0 +1,1 @@
+{"id":7408528,"login":"JonasNiestroj","contributions":{"total":1,"by_kind":{"commit":0,"issue":0,"pull_request":1}},"repositories":["openwallet-foundation/bifold-wallet"],"years":[2022],"first_contribution":{"kind":"pull_request","owner":"openwallet-foundation","repository":"bifold-wallet","sha":null,"number":369,"title":"Load genesis from GENESIS_URL","ts":1657465066}}

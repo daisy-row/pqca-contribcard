@@ -1,0 +1,1 @@
+{"id":58292370,"login":"dong-ai-7","contributions":{"total":1,"by_kind":{"commit":0,"issue":1,"pull_request":0}},"repositories":["open-quantum-safe/oqs-provider"],"years":[2023],"first_contribution":{"kind":"issue","owner":"open-quantum-safe","repository":"oqs-provider","sha":null,"number":112,"title":"Test for TLS1.3 OQS signature support","ts":1676022811}}

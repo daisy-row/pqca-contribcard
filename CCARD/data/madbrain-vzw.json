@@ -1,0 +1,1 @@
+{"id":90726773,"login":"madbrain-vzw","contributions":{"total":2,"by_kind":{"commit":1,"issue":0,"pull_request":1}},"repositories":["open-quantum-safe/oqs-demos"],"years":[2021],"first_contribution":{"kind":"pull_request","owner":"open-quantum-safe","repository":"oqs-demos","sha":null,"number":102,"title":"Add scripts to build Chromium with liboqs.","ts":1632186504}}

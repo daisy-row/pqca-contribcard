@@ -1,0 +1,1 @@
+{"id":58652763,"login":"nonnish","contributions":{"total":1,"by_kind":{"commit":0,"issue":0,"pull_request":1}},"repositories":["open-quantum-safe/openssh"],"years":[2020],"first_contribution":{"kind":"pull_request","owner":"open-quantum-safe","repository":"openssh","sha":null,"number":65,"title":"Fixed duplicate symbol tun_fwd_ifnames","ts":1598113828}}

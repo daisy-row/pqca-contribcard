@@ -1,0 +1,1 @@
+{"id":11465495,"login":"panburana","contributions":{"total":2,"by_kind":{"commit":0,"issue":2,"pull_request":0}},"repositories":["open-quantum-safe/openssl"],"years":[2019],"first_contribution":{"kind":"issue","owner":"open-quantum-safe","repository":"openssl","sha":null,"number":111,"title":"Building as shared library fails","ts":1567889647}}

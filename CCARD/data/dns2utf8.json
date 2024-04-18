@@ -1,0 +1,1 @@
+{"id":739070,"login":"dns2utf8","contributions":{"total":1,"by_kind":{"commit":1,"issue":0,"pull_request":0}},"repositories":["open-quantum-safe/openssh"],"years":[2020],"first_contribution":{"kind":"commit","owner":"open-quantum-safe","repository":"openssh","sha":"9499f2bb01dc1032ae155999b2d7764b9491341f","number":null,"title":"Add CI with prepare script","ts":1596664901}}

@@ -1,0 +1,1 @@
+{"id":31362124,"login":"res0nance","contributions":{"total":12,"by_kind":{"commit":6,"issue":0,"pull_request":6}},"repositories":["open-quantum-safe/liboqs"],"years":[2023],"first_contribution":{"kind":"pull_request","owner":"open-quantum-safe","repository":"liboqs","sha":null,"number":1531,"title":"ci: add CI for android","ts":1692713436}}

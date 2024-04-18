@@ -1,0 +1,1 @@
+{"id":30979983,"login":"Muzosh","contributions":{"total":3,"by_kind":{"commit":0,"issue":3,"pull_request":0}},"repositories":["open-quantum-safe/oqs-provider","open-quantum-safe/openssl"],"years":[2023],"first_contribution":{"kind":"issue","owner":"open-quantum-safe","repository":"openssl","sha":null,"number":433,"title":"KeyType identification in PHP","ts":1678787364}}

@@ -1,0 +1,1 @@
+{"id":15850745,"login":"kaiduanx","contributions":{"total":3,"by_kind":{"commit":0,"issue":3,"pull_request":0}},"repositories":["open-quantum-safe/openssl","open-quantum-safe/liboqs"],"years":[2020],"first_contribution":{"kind":"issue","owner":"open-quantum-safe","repository":"liboqs","sha":null,"number":774,"title":"liboqs fails to build on Ubuntu 16.04","ts":1593182903}}

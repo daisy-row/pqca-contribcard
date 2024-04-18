@@ -1,0 +1,1 @@
+{"id":18574746,"login":"seschu","contributions":{"total":1,"by_kind":{"commit":0,"issue":1,"pull_request":0}},"repositories":["open-quantum-safe/oqs-provider"],"years":[2024],"first_contribution":{"kind":"issue","owner":"open-quantum-safe","repository":"oqs-provider","sha":null,"number":340,"title":"on replacing a pqc algorithm with a custom implementation","ts":1705920742}}

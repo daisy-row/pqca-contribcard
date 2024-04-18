@@ -1,0 +1,1 @@
+{"id":71398439,"login":"bc-pi","contributions":{"total":3,"by_kind":{"commit":1,"issue":0,"pull_request":2}},"repositories":["openwallet-foundation-labs/sd-jwt-python"],"years":[2023],"first_contribution":{"kind":"pull_request","owner":"openwallet-foundation-labs","repository":"sd-jwt-python","sha":null,"number":13,"title":"Remove initial underscore on _sd_hash","ts":1701380288}}

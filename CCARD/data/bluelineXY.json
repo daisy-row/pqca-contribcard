@@ -1,0 +1,1 @@
+{"id":5988879,"login":"bluelineXY","contributions":{"total":1,"by_kind":{"commit":1,"issue":0,"pull_request":0}},"repositories":["open-quantum-safe/openssl"],"years":[2015],"first_contribution":{"kind":"commit","owner":"open-quantum-safe","repository":"openssl","sha":"ff4a9394a2380140209a9ce2849f011063af1ecc","number":null,"title":"GH357: Update ocsp.c","ts":1439072283}}

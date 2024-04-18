@@ -1,0 +1,1 @@
+{"id":10507970,"login":"carsonRadtke","contributions":{"total":2,"by_kind":{"commit":1,"issue":0,"pull_request":1}},"repositories":["open-quantum-safe/liboqs"],"years":[2024],"first_contribution":{"kind":"pull_request","owner":"open-quantum-safe","repository":"liboqs","sha":null,"number":1754,"title":"add compile_commands.json to .gitignore","ts":1713044549}}

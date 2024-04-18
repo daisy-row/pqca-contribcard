@@ -1,0 +1,1 @@
+{"id":10732757,"login":"crest42","contributions":{"total":6,"by_kind":{"commit":2,"issue":2,"pull_request":2}},"repositories":["open-quantum-safe/openssl"],"years":[2020],"first_contribution":{"kind":"issue","owner":"open-quantum-safe","repository":"openssl","sha":null,"number":238,"title":"MAX_CURVELIST too small","ts":1600355818}}
