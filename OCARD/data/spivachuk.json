@@ -1,1 +1,0 @@
-{"id":19690583,"login":"spivachuk","contributions":{"total":3,"by_kind":{"commit":0,"issue":2,"pull_request":1}},"repositories":["openwallet-foundation/credo-ts"],"years":[2023,2022],"first_contribution":{"kind":"pull_request","owner":"openwallet-foundation","repository":"credo-ts","sha":null,"number":1148,"title":"feat: Corrected peer DIDs resolution (key IDs)","ts":1670508813}}

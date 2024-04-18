@@ -1,1 +1,0 @@
-{"id":1330022,"login":"seriousManual","contributions":{"total":2,"by_kind":{"commit":1,"issue":0,"pull_request":1}},"repositories":["openwallet-foundation/credo-ts"],"years":[2021],"first_contribution":{"kind":"pull_request","owner":"openwallet-foundation","repository":"credo-ts","sha":null,"number":410,"title":"build: fix start scripts for mediators","ts":1627286307}}

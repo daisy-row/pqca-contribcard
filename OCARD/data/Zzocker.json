@@ -1,1 +1,0 @@
-{"id":43764373,"login":"Zzocker","contributions":{"total":6,"by_kind":{"commit":2,"issue":0,"pull_request":4}},"repositories":["openwallet-foundation/credo-ts"],"years":[2023,2022],"first_contribution":{"kind":"pull_request","owner":"openwallet-foundation","repository":"credo-ts","sha":null,"number":1156,"title":"feat(oob): receive Invitation with timeout","ts":1670918132}}
